@@ -15,13 +15,6 @@ An elegant, fast, and intuitive Android app for converting common units of measu
 
 ---
 
-## 📸 Screenshots
-
-<!-- You can add your screenshots here -->
-<!-- Example: -->
-<!-- ![Main screen](screenshots/home.png) -->
-
----
 
 ## 📦 Download APK
 
@@ -76,5 +69,4 @@ See the [LICENSE](./LICENSE) file for details.
 
 ## 🧑‍💻 Author
 
-**Your Name** – [@yourGitHub](https://github.com/yourGitHub)  
-Feel free to connect or drop a ⭐ if you find this project helpful!
+Maral, Yannick
